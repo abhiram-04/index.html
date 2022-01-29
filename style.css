@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+.box1{
+  font-family:New Century Schoolbook, TeX Gyre Schola, serif;
+  text-align: center;
+  display: justify;
+  background-color: #99A799;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+  word-spacing: 10px;
+  color:#1F1D36;
+}
+li {
+  display: inline;
+  background-color: rgb(163, 167, 165);
+  padding: 10px;
+  font-weight: 900;
+  border-radius: 15px;
+}
+
+.column {
+  
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+img{
+  border-radius: 50px;
+}
+.cen{
+  font-size: x-large;
+  font-weight: bolder;  
+  padding-left: 200px;
+}
+.sty{
+  text-align: center;
+  color: #6C5B7C;
+}
+hr{
+  height: 10px;
+  background-color: black;
+  border-radius: 10px;
+}
+.our{
+  display: block;
+   font-size:30px; 
+   text-align: center;
+   background-color: #92A9BD;
+   
+}
+.cont{
+  font-size: 20px;
+  text-align-last: center;
+}
+.cont1{
+  background-color: #D1CEBD;
+}
