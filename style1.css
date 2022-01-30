@@ -1,0 +1,44 @@
+
+h1{
+	color: firebrick;
+	font-family: cursive;
+	text-align: center;
+	background-color: lightsteelblue;
+	padding: 20px;
+}
+
+h2{
+	color: sandybrown;
+}
+h3{
+	color: sandybrown;
+}
+hr{
+	border: solid steelblue;
+	width: 50%;
+}
+P{
+	font-family: cursive;
+	margin: 50px;
+ }	
+img {
+  border-radius: 50%;
+}
+header {
+	background-color: lightsteelblue;
+	padding: 3px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 80px;
+}
+li a{
+    color: whitesmoke;
+
+} 
+li a:hover{
+	color: black;
+}
